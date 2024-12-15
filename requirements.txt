@@ -3,3 +3,5 @@ pygame
 streamlit
 speechrecognition
 googletrans==3.1.0a0
+edge-tts==7.0.0
+pyaudio==0.2.14
